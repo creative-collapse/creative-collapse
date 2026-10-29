@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local Claude notes (contain non-public grant context)
+CLAUDE.md
+
+# macOS
+.DS_Store
